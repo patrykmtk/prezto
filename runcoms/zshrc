@@ -16,7 +16,6 @@ unsetopt share_history
 # Customize to your needs...
 export EDITOR='vim'
 export VISUAL="$EDITOR"
-source ~/pre33/exports.sh
 
 [ -f ~/.fzf.zsh ] && source ~/.fzf.zsh
 eval $(thefuck --alias)
